@@ -5,6 +5,32 @@
 
 ## Pilot 
 
+
+
+###  Charactors 
+ 
+#### Patrick Jane
+#### Lead Agent Teresa Lisbon
+#### Supervisor
+#### Agent Kimbel Cho
+#### Agent Wayne
+#### Agent Vanpelt
+
+
+#### Patrick Jane
+On a consultancy contract with the CBI. 
+In a 
+
+#### Lead Agent Teresa Lisbon
+#### Supervisor
+#### Agent Kimbel Cho
+#### Agent Wayne
+#### Agent Vanpelt
+
+
+#### CBI - The California Bureau of Investigation
+
+
 Excuse me.
 Can I get a comment, please? Yes, ma'am.
 We're just gonna keep you right back here.

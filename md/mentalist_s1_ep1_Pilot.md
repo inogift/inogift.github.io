@@ -1,8 +1,9 @@
-The Mentalist s01e01 Episode Script
+### The Mentalist s01e01 Episode Script
+
+### Written by Bruno Heller
 
 
-
-Pilot 
+## Pilot 
 
 Excuse me.
 Can I get a comment, please? Yes, ma'am.

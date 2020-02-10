@@ -9,20 +9,36 @@
 
 ###  Charactors 
  
-#### Patrick Jane
-#### Lead Agent Teresa Lisbon
-#### Supervisor
-#### Agent Kimbel Cho
-#### Agent Wayne
-#### Agent Vanpelt
+#### Patrick Jane  | Simon Baker
+#### Lead Agent Teresa Lisbon  | Robin Tunney
+#### Supervisor   Minelli? RJ PATEL?
+#### Agent Kimball Cho   | Tim Kang
+#### Agent Wayne Rigsby  | 
+#### Agent Grace Van Pelt	
+#### Agent Kim Fisher
+#### Agent Jason Wylie
+#### Agent Michelle Vega
 
+#### Supervisor Dennis Abbot
+
+cf: https://en.wikipedia.org/wiki/The_Mentalist
 
 #### Patrick Jane
 On a consultancy contract with the CBI. 
-In a 
+In a previous chapter of his life, he was a fake psychic medium, making his livinig by guile and manipulation, using his ferocious intelligence and a keen understanding of human nature to fleece his fellow man. 
+Now, he still has the charm and wit of a showman, and all the strange skills of his former calling, 
+but that bravura style is tempered by hard earned wisdom, and honesty, and a singular dedication 
+to his own brand and justice. 
 
 #### Lead Agent Teresa Lisbon
+A woman of serious faith and intergrity, leavened by wit and compassion. 
+She's given up the idea of a love life or a family life to devote herself - nun-like-to homicide work.
+Her intense drive and self-discipline is born of a subconscious urge for marytrdom.
+You get the sense that there's another more passionate and sensual woaman inside the brusque persona.
+But for some reason, that inner Lisbon is almost always kept hidden.
+
 #### Supervisor
+
 #### Agent Kimbel Cho
 #### Agent Wayne
 #### Agent Vanpelt

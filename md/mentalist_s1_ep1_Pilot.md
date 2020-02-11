@@ -3,18 +3,18 @@
 ### Written by Bruno Heller
 
 
-## Pilot 
+## Pilot
 
 
 
-###  Charactors 
- 
+###  Charactors
+
 #### Patrick Jane  | Simon Baker
 #### Lead Agent Teresa Lisbon  | Robin Tunney
 #### Supervisor   Minelli? RJ PATEL?
 #### Agent Kimball Cho   | Tim Kang
-#### Agent Wayne Rigsby  | 
-#### Agent Grace Van Pelt	
+#### Agent Wayne Rigsby  |
+#### Agent Grace Van Pelt
 #### Agent Kim Fisher
 #### Agent Jason Wylie
 #### Agent Michelle Vega
@@ -24,48 +24,97 @@
 Ref: https://en.wikipedia.org/wiki/The_Mentalist
 
 #### Patrick Jane
-On a consultancy contract with the CBI. 
-In a previous chapter of his life, he was a fake psychic medium, making his livinig by guile and manipulation, using his ferocious intelligence and a keen understanding of human nature to fleece his fellow man. 
-Now, he still has the charm and wit of a showman, and all the strange skills of his former calling, 
-but that bravura style is tempered by hard earned wisdom, and honesty, and a singular dedication 
-to his own brand and justice. 
+On a consultancy contract with the CBI.
+In a previous chapter of his life, he was a fake psychic medium, making his livinig by guile and manipulation, using his ferocious intelligence and a keen understanding of human nature to fleece his fellow man.
+Now, he still has the charm and wit of a showman, and all the strange skills of his former calling,
+but that bravura style is tempered by hard earned wisdom, and honesty, and a singular dedication
+to his own brand and justice.
+(Late thirties, early forties;)
 
 #### Lead Agent Teresa Lisbon
-A woman of serious faith and intergrity, leavened by wit and compassion. 
+A woman of serious faith and intergrity, leavened by wit and compassion.
 She's given up the idea of a love life or a family life to devote herself - nun-like-to homicide work.
 Her intense drive and self-discipline is born of a subconscious urge for marytrdom.
 You get the sense that there's another more passionate and sensual woaman inside the brusque persona.
 But for some reason, that inner Lisbon is almost always kept hidden.
+(Mid-to-late thirties.)
 
 #### Supervisor (Minnelli?)
 The boss, Deomonstrative, egotistical, brash, Machiavellian.
-Moved to suburban California from Uttar Pradesh, India, when he was eleven. 
+Moved to suburban California from Uttar Pradesh, India, when he was eleven.
 Will do whatever it takes to protect his beloved Bureau and his status there.
 
-#### Agent Kimbel Cho
-#### Agent Wayne
-#### Agent Vanpelt
+#### Agent Kimball Cho
+From twenty generations farmers of farmers back in Korea - A lugubrious, logical, stubborn, flat-footed, family man. He might seem rude, but it's just Ken being his pathologically honest self.
+A relentless interrogator.
 
+#### Agent Wayne Rigsby
+Ex-college tight and, ex LAPD, in his mid to late twenties.
+A predatory bady boy with the women, but a diligent and honorable man on the job.
+Likes to think he's a whole lot smarter than he's given credit for by the CBI team;
+but he's a whole lot smarter than he's given credit for by the CBI team;but he's wrong.
+He struggles with his propensity for violence, and his attraction to women who are attracted to that.
+
+#### Agent Grace Van pelt
+College valedictorian, head cheerleader, and barrel racing champion from rural Idaho,
+Van Pelt was by far the smartest person she knew until she went to college.
+Hence a winningly naive confidence in her own intellect and capabiliies.
+Devoutly spiritual, not to say gullible.
 
 #### CBI - The California Bureau of Investigation
 
 
+
+#### MORGAN and PAMELA TOLLIVER : the dead girl's parents
+
+
+
+#### News Crews
 Excuse me.
-Can I get a comment, please? Yes, ma'am.
+Can I get a comment, please?
+
+#### State and Federal Agents
+Yes, ma'am.
 We're just gonna keep you right back here.
-- Captain.
-- Agent Lisbon.
+
+#### Lisbon
+Captain.
+
+#### Captain
+Agent Lisbon.
 Don't think we'll be needing you guys.
 We like the neighbor kid who found the body.
-- Did he confess? - Eh, he's a real squirrel.
-Hard to say - Did you kill her? - Did you kill her? Mercy's father would like to give a brief statement.
+
+#### Lisbon
+Did he confess? -
+
+#### Captain
+Agent Lisbon.
+Eh, he's a real squirrel. Hard to say - Did you kill her?
+
+#### Crowd
+Did you kill her?
+
+#### MC
+Mercy's father would like to give a brief statement.
+
+#### MORGAN
 I just wanna take a moment and thank everyone in law enforcement and all the volunteers who helped us in the search for our beloved daughter.
 The way that this entire community has come together to support me and Juniper in this terrible time has been of great comfort to us.
 And now I would just like to ask that you give us some time, space and privacy to grieve for our daughter.
 Thank you.
-Hello, Mrs.
-Tolliver.
-- Who are you? - My name's Patrick Jane.
+
+(    )
+
+#### Jane
+Hello, Mrs.Tolliver.
+
+#### Jane
+Who are you?
+
+#### Jane
+My name's Patrick Jane.
+
 I'm here to help you.
 Would you like a cup of tea? Yes, I would.
 Thank you.

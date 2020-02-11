@@ -21,7 +21,7 @@
 
 #### Supervisor Dennis Abbot
 
-cf: https://en.wikipedia.org/wiki/The_Mentalist
+Ref: https://en.wikipedia.org/wiki/The_Mentalist
 
 #### Patrick Jane
 On a consultancy contract with the CBI. 
@@ -37,7 +37,10 @@ Her intense drive and self-discipline is born of a subconscious urge for marytrd
 You get the sense that there's another more passionate and sensual woaman inside the brusque persona.
 But for some reason, that inner Lisbon is almost always kept hidden.
 
-#### Supervisor
+#### Supervisor (Minnelli?)
+The boss, Deomonstrative, egotistical, brash, Machiavellian.
+Moved to suburban California from Uttar Pradesh, India, when he was eleven. 
+Will do whatever it takes to protect his beloved Bureau and his status there.
 
 #### Agent Kimbel Cho
 #### Agent Wayne

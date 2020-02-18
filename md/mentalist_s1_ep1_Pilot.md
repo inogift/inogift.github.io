@@ -109,34 +109,69 @@ Thank you.
 #### Jane
 Hello, Mrs.Tolliver.
 
-#### Jane
+#### PAMELA
 Who are you?
 
 #### Jane
 My name's Patrick Jane.
-
 I'm here to help you.
-Would you like a cup of tea? Yes, I would.
-Thank you.
+Would you like a cup of tea?
+
+#### PAMELA
+Yes, I would. Thank you.
+
+#### Jane
 You must be tired.
-Why don't you sit down? It's nice and quiet in here, isn't it? Quiet, soothing, calm.
+Why don't you sit down?
+
+(CONT'D)
+
+It's nice and quiet in here, isn't it?
+Quiet, soothing, calm.
 Calm.
+
+(CONT'D)
+
 I've been watching you and your husband and I want you to know that I understand what you're feeling right now.
+
+#### PAMELA
 You have no idea.
 Believe me.
-I do.
-I know.
-- I know, and I wanna help you.
-- You can't help me.
-- What do you know? - All sorts of things.
-- You really only pretend to like skiing, right? - Yes, but You're pleased that your best friend recently gained some weight.
+
+#### Jane
+No. I do. I know.
+I know, and I wanna help you.
+
+#### PAMELA
+You can't help me.
+
+What do you know?
+
+#### Jane
+All sorts of things.
+
+You really only pretend to like skiing, right?
+
+#### PAMELA
+Yes, but
+
+#### Jane
+You're pleased that your best friend recently gained some weight.
 About 10 pounds.
 You wish you'd been more adventurous when you were younger.
 You love India, but you've never been there.
+
+(More)
+
 You have trouble sleeping.
 Your favorite color is blue.
+
+#### PAMELA
 I don't understand.
-You're? - You're psychic? - Ha, no.
+You're? - You're psychic? 
+
+#### Jane
+Ha, no.
 Just paying attention.
 I used to make a good living pretending to be a psychic.
 I tell you this because I want you to understand there's no point hiding things from me.

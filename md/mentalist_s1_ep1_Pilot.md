@@ -67,7 +67,7 @@ Devoutly spiritual, not to say gullible.
 
 #### MORGAN and PAMELA TOLLIVER : the dead girl's parents
 
-
+(EXT. TUDOR MANSION. HIDDEN HILLS - DAY)
 
 #### News Crews
 Excuse me.

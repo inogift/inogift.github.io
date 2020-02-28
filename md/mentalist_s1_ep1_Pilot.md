@@ -22,8 +22,8 @@
 #### Supervisor Dennis Abbot
 
 
-Link: [Wikipedia][Ref]
-[Ref]: https://en.wikipedia.org/wiki/The_Mentalist
+Link: [Wikipedia][Ref_link]
+[Ref_link]: https://en.wikipedia.org/wiki/The_Mentalist "Wikipedia"
 
 #### Patrick Jane
 On a consultancy contract with the CBI.

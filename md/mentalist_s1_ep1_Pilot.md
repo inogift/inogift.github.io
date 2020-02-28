@@ -21,7 +21,9 @@
 
 #### Supervisor Dennis Abbot
 
-Ref: https://en.wikipedia.org/wiki/The_Mentalist
+
+Link: [Wikipedia][Ref]
+[Ref]: https://en.wikipedia.org/wiki/The_Mentalist
 
 #### Patrick Jane
 On a consultancy contract with the CBI.
@@ -139,7 +141,8 @@ You have no idea.
 Believe me.
 
 #### Jane
-No. I do. I know.
+No.
+I do. I know.
 I know, and I wanna help you.
 
 #### PAMELA
@@ -168,57 +171,135 @@ Your favorite color is blue.
 
 #### PAMELA
 I don't understand.
-You're? - You're psychic? 
+You're?
+You're psychic?
 
 #### Jane
 Ha, no.
 Just paying attention.
 I used to make a good living pretending to be a psychic.
 I tell you this because I want you to understand there's no point hiding things from me.
-Hiding what? You know what I see when I look at your husband? I see a warm, loving, generous man.
+
+#### PAMELA
+Hiding what?
+
+#### Jane
+(Do) You know what I see when I look at your husband?
+
+I see a warm, loving, generous man.
 A little vain, maybe.
 Selfish.
 Controlling.
 But a decent man.
+
+#### PAMELA
 Yes.
-So why do you suspect him of murdering your daughter? I don't.
-- The McCluskey boy did it.
-- Yes, that's what the police say.
+
+#### Jane
+So, why do you suspect him of murdering your daughter?
+
+#### PAMELA
+I don't.
+The McCluskey boy did it.
+
+#### Jane
+Yes, that's what the police say.
 But you think they're wrong.
-Why? I don't know.
+Why?
+
+#### PAMELA
 I don't know.
-I Tell me.
+I don't know.
 The last year, they have been so strange with each other.
 And neither one would admit that anything was wrong.
-And I think that I think that she tried to tell me once, and I didn't I God.
+And I think that I think that she tried to tell me once,
+and I didn't ....    I God.
 Oh, God.
-Did you ask him if he killed her? What would he say? Most wives can tell when their husbands are lying.
+
+#### Jane
+Did you ask him if he killed her?
+
+#### PAMELA
+(NO.) What would he say?
+
+#### Jane
+Most wives can tell when their husbands are lying.
+
+#### PAMELA
 Yes.
+
 Yes.
-L I don't want Uh The McCluskey boy did it.
-Maybe.
-You think he did it too? I trust a mother's instinct.
+
+I don't want Uh The McCluskey boy did it.
+
+#### Jane
+Maybe. (Maybe not.)
+
+#### PAMELA.
+You think he did it too?
+
+#### Jane
+I trust a mother's instinct.
+
+#### TOLLIVER
 June? There you are.
 Hi.
-Who are you? I'm the police.
-Did you kill your daughter? How dare you? I asked you a simple question, sir.
-Did you kill your daughter? - No.
+Who are you?
+
+#### Jane
+I'm the police.
+Did you kill your daughter?
+
+#### TOLLIVER
+How dare you?
+
+#### Jane
+I asked you a simple question, sir.
+
+Did you kill your daughter?
+
+#### TOLLIVER
+No.
 I did not kill my daughter.
-- Oh.
-Now, you get the hell out of my house.
-June? June, what's the matter with you? I'm gonna have your badge.
+Oh.Now, you get the hell out of my house.
+
+June?
+June, what's the matter with you?
+
+I'm gonna have your badge.
+
+#### Jane
 An innocent man would've punched me by now.
+
+#### TOLLIVER
 I am gonna make life miserable for you.
 You come in here, you accost my wife.
-You cause trouble, uh June.
+You cause trouble,
+
+uh June.
+
 June, honey, please Shots fired.
+
+#### Police
 Inside.
+
 Move, move! Hey.
+
+#### Jane
 Honestly, it's not as bad as it looks.
-Mrs.
-Tolliver? Mrs.
-Tolliver? Please wait.
+(I know this looks bad, but it's really not)
+
+#### Lisbon
+Mrs.Tolliver?
+Mrs.Tolliver? Please wait.
+
+
 Front room's clear.
+
+ END OF TEASER
+ <hr/>
+
+
 Then the son of a bitch eagles 17.
 Are you kidding me? On that course? A damn eagle? That course never suited you, Price.
 We'll do better in Orlando.

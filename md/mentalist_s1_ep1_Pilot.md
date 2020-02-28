@@ -1,4 +1,5 @@
-### The Mentalist s01e01 Episode Script
+The Mentalist s01e01 Episode Script
+====================================
 
 ### Written by Bruno Heller
 
@@ -7,7 +8,8 @@
 
 
 
-###  Charactors
+__Charactors__
+------------------
 
 #### Patrick Jane  | Simon Baker
 #### Lead Agent Teresa Lisbon  | Robin Tunney
@@ -300,7 +302,7 @@ Mrs.Tolliver? Please wait.
 
 Front room's clear.
 
- END OF TEASER
+ _END OF TEASER_
  <hr/>
 
 

@@ -22,6 +22,11 @@
 #### Supervisor Dennis Abbot
 
 
+[PDF Link] (https://inogift.github.io/pdf/The_Mentalist_1x01_-_Pilot.pdf
+ "PDF Link")
+
+
+
 Link: <https://en.wikipedia.org/wiki/The_Mentalist/>  
 
 #### Patrick Jane

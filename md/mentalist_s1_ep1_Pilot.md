@@ -3,9 +3,7 @@ The Mentalist s01e01 Episode Script
 
 ### Written by Bruno Heller
 
-
 ## Pilot
-
 
 
 __Charactors__
@@ -277,7 +275,7 @@ I'm gonna have your badge.
 #### Jane
 An innocent man would've punched me by now.
 
-#### TOLLIVER
+#### MORGAN TOLLIVER
 I am gonna make life miserable for you.
 You come in here, you accost my wife.
 You cause trouble,
@@ -299,90 +297,239 @@ Honestly, it's not as bad as it looks.
 Mrs.Tolliver?
 Mrs.Tolliver? Please wait.
 
-
+#### Police
 Front room's clear.
 
+
  _END OF TEASER_
- <hr/>
+
+EXT. A COUNTRY CLUB COMMUNITY. IDIAN WELLS - day
 
 
+**ACT ONE**
+
+__Charactors__
+
+#### ELI Randolph
+#### TAG Randolph
+
+
+#### ELI
 Then the son of a bitch eagles 17.
-Are you kidding me? On that course? A damn eagle? That course never suited you, Price.
+Are you kidding me? On that course?
+A damn eagle?
+
+#### TAG
+That course never suited you, Price.
 We'll do better in Orlando.
-- We have a nice spot on the draw.
-- Well, I'll tell you what.
+We have a nice spot on the draw.
+
+#### ELI
+Well, I'll tell you what.
 Davis Love III can kiss my butt.
-Alison? Alison? Flight 233 from Sacramento you may claim your baggage from Carousel 2.
-Flight 233 from Sacramento Uh, sorry.
-You checked luggage? What are you, on vacation? - No, ma'am.
+
+_The Front hall_
+
+_A Bedroom_
+
+#### ELI
+Alison? Alison?
+
+
+#### Broadcasting in airport
+Flight 233 from Sacramento you may claim your baggage from Carousel 2.
+Flight 233 from Sacramento
+
+#### Van Pelt
+Uh, sorry.
+
+#### Lisbon
+You checked luggage? What are you, on vacation?
+
+#### Van Pelt
+No, ma'am.
 Won't do it again.
-- When your trousseau arrives pick up the second rental and go to the sheriff's department.
+
+#### Lisbon
+(keeps walking)
+When your trousseau arrives pick up the second rental and go to the sheriff's department.
 Hustle us up a couple of rooms, furniture and phone lines.
+
+#### Van Pelt
 Yes, ma'am.
 Come on, let's go.
+
+#### JANE
 Morning, everybody.
-- How was your flight? - Go away.
+How was your flight?
+
+#### Lisbon
+Go away.
 You're on suspension.
+
+#### JANE
 Thank you.
-- Mandated leave.
+Mandated leave.
 Ends next week.
-- So come back next week.
-- Hot enough for you? - Which one of you jackasses told him? - It was you, wasn't it, Cho? - Yes.
+
+#### Lisbon
+ So come back next week.
+ Hot enough for you?
+
+ Which one of you jackasses told him?
+
+#### Lisbon
+ It was you, wasn't it, Cho?
+
+#### Cho
+Yes.
+
+#### JANE
 Of course he called me.
 It's Red John.
 Can't keep me out of this.
-Why would you want to? You got a man killed.
+Why would you want to?
+
+#### Lisbon
+You got a man killed.
 There's consequences.
-A man that murdered his daughter because she wouldn't have sex with him? You did not know that.
-If she hadn't left the diary But she did, though.
+
+#### JANE
+A man that murdered his daughter because she wouldn't have sex with him?
+
+#### Lisbon
+You did not know that.
+If she hadn't left the diary...
+
+#### JANE
+But she did, though.
 Be reasonable.
 This is my case.
-- Your case? - Red John's mine.
+
+#### Lisbon
+Your case?
+Red John's mine.
 Red John doesn't belong to anyone.
+
+#### JANE
 He belongs to me.
+
+#### Lisbon
 It's not my call.
 Rules are rules.
 Come back next week.
+
+
 Don't let this man past.
+
+(INT.RIVERSIDE COUNTY MORGUE - DAY)
+#### Lisbon
 Boss.
+
+#### Minnelli
+You know why I'm calling.
+
+...
+
+#### Medical Examiner
 We have Gregory Tannen, Caucasian, male, 43, single.
 We haven't opened him up yet, but Sorry I went over your head.
+
+#### JANE
 I'll redeem myself, I promise.
+
+#### Lisbon
 You want redemption, be silent.
-- Okay, I can learn to do that.
-- Shh.
+
+#### JANE
+Okay, I can learn to do that.
+
+#### Lisbon
+Shh.
+
+#### JANE
 Sorry.
+
+#### Medical Examiner
 Burn marks here indicate that the victim was subdued with a stun gun standard civilian model, by the look of it.
 Death appears to be caused by several blows to the back of the skull consistent with the bloody golf club found at the scene.
+
 Female is Alison Randolph, They were found at her listed residence.
 TOD looks to be early Saturday evening.
 On Alison, we have stun-gun marks followed by binding with tight, black, plastic ligatures frenzied cutting and stabbing assault of the torso, and abuse of the viscera.
+
 - Textbook Red John.
-- Who found the bodies? This one's husband, coming home from the airport with his brother.
-- He's a pro golfer.
-- Oh, yeah? Price Randolph? - What's her deal with him? Do we know? - He's on file as one of her physicians.
-- Making a house call? - Lovers? No.
+
+#### Lisbon
+Who found the bodies?
+
+#### Cho
+This one's husband, coming home from the airport with his brother.
+He's a pro golfer.
+
+#### GILZEAN?
+Oh, yeah?
+Price Randolph?
+
+#### LISBON
+hat's her deal with him?
+Do we know?
+
+#### Cho
+He's on file as one of her physicians.
+
+#### LISBON
+- Making a house call?
+
+#### GILZEAN?
+- Lovers?
+
+#### JANE
+No.
 This one's gay.
-Dr.
-Wagner might know what their relationship was.
+
+#### Medical Examiner
+Dr.Wagner might know what their relationship was.
 He's here to make the formal ID.
+
+
+#### LISBON
 Okay.
-Dr.
-Wagner.
-Hi.
-I'm Agent Teresa Lisbon, California Bureau of Investigation.
-- What's your connection to the victims? - Well, I work with Gregory.
-Dr.
-Tannen and the Randolph family are long-time clients of our practice.
-- Are house calls the norm at your practice? - No.
-Gregory and Alison were close friends.
-- Lovers? - No.
-He was gay.
+Dr.Wagner.
+
+
+Hi.I'm Agent Teresa Lisbon, California Bureau of Investigation.
+What's your connection to the victims?
+
+#### Dr.Wagner
+Well, I work with Gregory.
+Dr.Tannen and the Randolph family are long-time clients of our practice.
+
+#### LISBON
+Are house calls the norm at your practice?
+
+#### Dr.Wagner
+No. Gregory and Alison were close friends.
+
+#### JANE
+Lovers?
+
+#### Dr.Wagner
+No. He was gay.
 No, they were just friends.
-- What in God's name happened to them? - Looks like Red John.
-- Who's Red John? - We don't know who did this.
+What in God's name happened to them?
+
+#### LISBON
+Looks like Red John.
+
+#### Dr.Wagner
+Who's Red John?
+
+- We don't know who did this.
 We'll be in touch probably.
 Thank you.
+
+
 - Tracy wanna set up? Here? Yeah, that's good.
 Red John enters here.
 Excuse me.

@@ -73,6 +73,10 @@ Devoutly spiritual, not to say gullible.
 
 #### MORGAN and PAMELA TOLLIVER : the dead girl's parents
 
+(Mogan, 55, is a big warm charismatic guy, stoically)
+(His wife Pamela, 49 a Tipper Gore Blonde)
+
+
 (EXT. TUDOR MANSION. HIDDEN HILLS - DAY)
 
 #### News Crews
@@ -96,9 +100,10 @@ Did he confess? -
 
 #### Captain
 Agent Lisbon.
-Eh, he's a real squirrel. Hard to say - Did you kill her?
+Eh, he's a real squirrel. Hard to say
 
 #### Crowd
+Did you kill her?
 Did you kill her?
 
 #### MC
@@ -107,6 +112,9 @@ Mercy's father would like to give a brief statement.
 #### MORGAN
 I just wanna take a moment and thank everyone in law enforcement and all the volunteers who helped us in the search for our beloved daughter.
 The way that this entire community has come together to support me and Juniper in this terrible time has been of great comfort to us.
+
+(    )
+
 And now I would just like to ask that you give us some time, space and privacy to grieve for our daughter.
 Thank you.
 
@@ -456,9 +464,12 @@ Death appears to be caused by several blows to the back of the skull consistent 
 
 Female is Alison Randolph, They were found at her listed residence.
 TOD looks to be early Saturday evening.
+
 On Alison, we have stun-gun marks followed by binding with tight, black, plastic ligatures frenzied cutting and stabbing assault of the torso, and abuse of the viscera.
 
-- Textbook Red John.
+
+
+Textbook Red John.
 
 #### Lisbon
 Who found the bodies?
@@ -525,48 +536,95 @@ Looks like Red John.
 #### Dr.Wagner
 Who's Red John?
 
-- We don't know who did this.
+#### LISBON
+We don't know who did this.
 We'll be in touch probably.
 Thank you.
 
 
-- Tracy wanna set up? Here? Yeah, that's good.
+Tracy wanna set up?
+Here?
+Yeah, that's good.
+
+#### PARTRIDGE
 Red John enters here.
+
 Excuse me.
 Sorry.
+
+#### PARTRIDGE
 He comes around here.
 He waits for her, expecting her to come in alone.
-Only thing, her friend Tannen chose the wrong night to come over for a Richard Gere and ice-cream orgy.
+Only thing, her friend Tannen chose the wrong night
+to come over for a Richard Gere and ice-cream orgy.
+
+
 So Red John zaps them both with his trusty stun gun and Excuse me.
-- Grabs a five iron from the bag here and Ugh! Crushes Tannen's skull.
+Grabs a five iron from the bag here and Ugh! Crushes Tannen's skull.
 Then he takes his sweet time dealing with Alison how he likes.
-She's a nice big girl so unless he's pretty strong, I'm guessing that he grabbed her by the arms and dragged her down the hall.
+
+**Flashback**
+
+(Jane, five years younger. Slick and arrogant, dressedin his showbiz black,
+performing a pychic medium act...)
+
+#### JANE
+She's a nice big girl so unless he's pretty strong,
+I'm guessing that he grabbed her by the arms and dragged her down the hall.
+
 He says he's sorry for all the pain he's caused you and your mother.
+
 Deeply sorry.
 He asks you to forgive him.
-Can you do that Jenny? - He needs to hear it.
-- I forgive you, Daddy.
-- Oh, yes.
-- I forgive you.
+Can you do that Jenny?
+He needs to hear it.
+
+#### JENNY
+I forgive you, Daddy.
+Oh, yes.
+I forgive you.
+
+#### JANE
 He's smiling now.
 There are tears of joy.
-He says, "God bless you and keep you.
-" He's gone.
-- Amazing, amazing.
-Amazing.
-- She's amazed.
-- Patrick - One second.
-- Give him some time.
-- Abso Come on back to us.
-- I'm back.
+He says, "God bless you and keep you."
+He's gone.
+
+(Jane comes out of semi-trance. Jenny is sobbing.
+  The audience applauds, deeply moved.
+  Jane take a seat with Davis and Kelly, the hosts.)
+
+#### KELLY
+Amazing, amazing.Amazing.
+
+#### DAVIS
+She's amazed.
+Patrick - One second.
+Give him some time.
+Abso Come on back to us.
+
+#### JANE
+ I'm back.
 Thank you.
-- He's back.
+
+#### DAVIS
+He's back.
 Ha-ha-ha.
 So, Patrick, I understand that you're also sort of a paranormal detective.
-- Is that right? - I try to help the police when I can.
+Is that right?
+
+#### JANE
+I try to help the police when I can.
+
+#### DAVIS
 And you're helping them hunt this scary serial killer.
-- What's his name? Red John.
-- Red John.
+- What's his name?  Red John?
+
+#### JANE
+Red John.
+
+**End Flashback**
+
 There she blows.
 Classic Red John smiley face.
 Drawn in the victims' blood, clockwise, with three fingers of his right hand wearing a rubber kitchen glove.

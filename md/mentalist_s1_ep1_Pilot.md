@@ -623,24 +623,44 @@ And you're helping them hunt this scary serial killer.
 #### JANE
 Red John.
 
+
+
+#### PARTRIDGE O.S
+There she blows...
+
 **End Flashback**
 
-There she blows.
-Classic Red John smiley face.
-Drawn in the victims' blood, clockwise, with three fingers of his right hand wearing a rubber kitchen glove.
-- I'm stoked to finally see one in the flesh.
-- This isn't Red John.
-Right.
+#### PARTRIDGE
+... Classic Red John smiley face.
+Drawn in the victims' blood, clockwise,
+with three fingers of his right hand wearing a rubber kitchen glove.
+
+I'm stoked to finally see one in the flesh.
+
+#### JANE
+This isn't Red John.
+
+#### PARTRIDGE
+R-i-g-h-t.
+Oh-kay. And you know that how?
+
+#### JANE
 Red John thinks of himself as a showman, an artist.
 He has a strong sense of theater.
-In the previous killings he made sure that the first thing that anyone sees is the face on the wall.
+(MORE)
+In the previous killings he made sure that
+the first thing that anyone sees is the face on the wall.
 You see the face first, and you know.
 You know what's happened, and you feel dread.
 Then, and only then, do you see the body of the victim.
 Always in that order.
 Here, it's the opposite.
-The first thing you see is the body and you have to look around to see the face on the wall.
-- Doesn't play nearly as well, does it? - Depends on your taste, I suppose.
+The first thing you see is the body and
+you have to look around to see the face on the wall.
+Doesn't play nearly as well, does it?
+
+#### LISBON
+Depends on your taste, I suppose.
 No.
 Come on.
 The killer could've painted on the correct wall here, but he didn't because he didn't know better, because he isn't Red John.

@@ -478,7 +478,7 @@ Who found the bodies?
 This one's husband, coming home from the airport with his brother.
 He's a pro golfer.
 
-#### GILZEAN?
+#### Rigsby
 Oh, yeah?
 Price Randolph?
 
@@ -492,7 +492,7 @@ He's on file as one of her physicians.
 #### LISBON
 - Making a house call?
 
-#### GILZEAN?
+#### Rigsby
 - Lovers?
 
 #### JANE
@@ -530,7 +530,7 @@ No. He was gay.
 No, they were just friends.
 What in God's name happened to them?
 
-#### LISBON
+#### Rigsby
 Looks like Red John.
 
 #### Dr.Wagner
@@ -692,21 +692,48 @@ He's irksome.
 
 #### LISBON
 You don't need me here.
-- So, yeah, this one doesn't fit the pattern.
-- So Jane was right.
+
+(   )
+
+ __End of Act One__
+
+
+
+ __Act Two__
+
+
+#### LISBON
+(grudging)
+So, yeah, this one doesn't fit the pattern.
+
+#### Cho
+So Jane was right.
 We have a copycat.
+
+#### LISBON
 Or we have Red John trying new things.
 Or we have Red John making a mistake.
 We don't know.
 We'll work the evidence until we do know.
-- Go talk to the husband.
-- Will do, boss.
-What are you waiting for? Hey.
+Go talk to the husband.
+
+#### Rigsby
+Will do, boss.
+
+#### LISBON
+What are you waiting for?
+
+#### Cho
+Hey.
 So you might be right about this case.
+
+#### LISBON
 Might be.
 Thanks for the insight.
+
 No.
-Did I say that? I'm acknowledging the fact that you might be right, that's all.
+Did I say that?
+I'm acknowledging the fact that you might be right, that's all.
 I mean, if you wanted to come back, I couldn't stop you.
 Yeah, fine.
 I'm asking you to come back.

@@ -15,4 +15,3 @@
 |	Destined_with_you14	|	10		|	https://github.com/inogift/inogift.github.io/blob/master/destined/Destined_with_you14.pdf	|
 |	Destined_with_you15	|	18		|	https://github.com/inogift/inogift.github.io/blob/master/destined/Destined_with_you15.pdf	|
 |	Destined_with_you16	|	16		|	https://github.com/inogift/inogift.github.io/blob/master/destined/Destined_with_you16.pdf	|
-![image](https://github.com/inogift/inogift.github.io/assets/53510117/ae612d7c-ea16-4367-943e-66aa6e4ead56)
